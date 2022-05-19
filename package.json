@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/sonsurim/vanilla-typescript-boiler-plate/issues"
   },
-  "homepage": "https://github.com/sonsurim/vanilla-typescript-boiler-plate#readme"
+  "homepage": "https://github.com/sonsurim/vanilla-typescript-boiler-plate#readme",
+  "devDependencies": {
+    "copy-webpack-plugin": "^11.0.0",
+    "html-webpack-plugin": "^5.5.0",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-server": "^4.9.0"
+  }
 }
